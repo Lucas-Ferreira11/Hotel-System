@@ -1,0 +1,41 @@
+Código: 1;
+Quantidade de hóspedes: 4;
+Valor da diária: R$1000
+Status:  desocupado;
+
+Código: 2;
+Quantidade de hóspedes: 5;
+Valor da diária: R$1000
+Status: desocupado;
+
+Código: 3;
+Quantidade de hóspedes: 5;
+Valor da diária: R$1000
+Status:  desocupado;
+
+Código: 4;
+Quantidade de hóspedes: 4;
+Valor da diária: R$1000
+Status:  desocupado;
+
+
+Código: 5;
+Quantidade de hóspedes: 5;
+Valor da diária: R$900
+Status: desocupado;
+
+Código: 6;
+Quantidade de hóspedes: 4;
+Valor da diária: R$400
+Status: desocupado;
+
+Código: 7;
+Quantidade de hóspedes: 3;
+Valor da diária: R$500
+Status: desocupado;
+
+Código: 8;
+Quantidade de hóspedes: 5;
+Valor da diária: R$1000
+Status: desocupado;
+

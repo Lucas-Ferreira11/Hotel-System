@@ -1,0 +1,24 @@
+Código: 1;
+Nome: lucas;
+Telefone: 319999999;
+Cargo: atemdente;
+Salario: R$3000;
+
+Código: 2;
+Nome: lucas;
+Telefone: 319999999;
+Cargo: gerente;
+Salario: R$3000;
+
+Código: 3;
+Nome: mateus;
+Telefone: 319898988;
+Cargo: atemdente;
+Salario: R$3000;
+
+Código: 4;
+Nome: lucas juse;
+Telefone: 3199999999;
+Cargo: gerente ;
+Salario: R$4000;
+

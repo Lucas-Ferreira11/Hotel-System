@@ -1,0 +1,22 @@
+Código: 1;
+Nome: mateus;
+Endereço: rua jornalista heuvide porisco ;
+Telefone: 31998369051;
+Pontos de fidelidade: 20;
+Código: 2;
+Nome: lucas;
+Endereço: rua dom jose gspar;
+Telefone: 3198888888;
+Pontos de fidelidade: 0;
+Código: 3;
+Nome: lucas;
+Endereço: rua castelo dde albuquerqu;
+Telefone: 3199999999;
+Pontos de fidelidade: 0;
+
+Código: 4;
+Nome: adriano;
+Endereço: rua jornalista prisco;
+Telefone: 319983798;
+Pontos de fidelidade: 10;
+
